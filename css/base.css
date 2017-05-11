@@ -46,6 +46,7 @@ img {
 .name {
 	font-size: 1.35em;
 	margin: 0;
+	display: inline;
 }
 .main-nav {
 	margin-top: 5px;
